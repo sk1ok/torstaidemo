@@ -1,2 +1,2 @@
 def demo():
-    print("Hello world")
+    print("Hello world from demo.py")
